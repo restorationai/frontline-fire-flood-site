@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Lakewood (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Lakewood (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in lakewood without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-09-03T04:54:01.541986+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Lakewood (Without Getting Burned)"}]
 faq: [{"question": "Can I choose my own restoration company, or does my insurance company get to decide?", "answer": "In Washington State, you generally have the right to choose your own contractor, your insurance carrier cannot legally require you to use a specific company. Carriers may have a preferred vendor list and may suggest those contractors, but the choice is yours. That said, using a contractor who is familiar with your carrier's documentation and billing expectations can reduce friction during the claims process."}, {"question": "What is an assignment of benefits, and should I sign one?", "answer": "An assignment of benefits (AOB) is a document that transfers your right to collect insurance proceeds directly to the contractor, allowing them to bill your carrier and negotiate the claim on your behalf. It can be convenient, but it also removes your direct control over the claim. Read the document carefully, understand whether it limits your ability to dispute the contractor's scope or pricing, and consider consulting your insurance agent before signing."}, {"question": "How do I know if the damage is bad enough to file an insurance claim versus paying out of pocket?", "answer": "The general rule: if the estimated repair cost is meaningfully higher than your deductible, a claim is worth considering. Keep in mind that filing a claim can affect your premium at renewal, so weigh the net benefit. For water and mold losses especially, it's worth having a contractor assess the full extent of the damage before deciding, what looks like a surface stain can involve structural saturation that significantly changes the cost picture."}, {"question": "What's the difference between mitigation and reconstruction, and why does it matter for hiring?", "answer": "Mitigation covers everything done to stop the damage from getting worse, water extraction, drying, demolition of unsalvageable materials, smoke cleaning, and mold containment. Reconstruction is the rebuild: new drywall, flooring, cabinetry, and finishes. Some restoration companies handle both under one contract; others hand off the rebuild to a general contractor. Knowing which model a company uses before you sign helps you plan for continuity, permitting, and who is responsible for the finished product."}]
 published_at: "2026-08-26"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
