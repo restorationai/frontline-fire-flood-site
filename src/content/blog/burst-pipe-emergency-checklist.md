@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I've never look
 published_at: "2026-08-19"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 A burst pipe can release dozens of gallons of water per minute. The moment you hear the rush or spot the flood, shut off your home's main water supply valve, don't wait to find the source first. Once the water is off, you have a narrow window to limit structural damage, protect your belongings, and prevent the mold growth that can begin colonizing wet materials within 24 to 48 hours. This checklist walks you through every step, in order, so you're not guessing while water is spreading across your floor.
 

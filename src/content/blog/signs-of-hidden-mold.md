@@ -16,6 +16,7 @@ faq: [{"question": "How fast does mold actually grow after a water leak?", "answ
 published_at: "2026-08-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 Hidden mold doesn't announce itself. By the time you see a fuzzy patch on the wall, colonies may have been growing behind it for weeks, spreading through drywall, insulation, and framing while the surface looked fine. The seven signs below don't require a mold test to notice. If two or more apply to your home, treat it as a signal worth investigating, not a coincidence worth ignoring.
 

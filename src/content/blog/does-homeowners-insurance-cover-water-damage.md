@@ -16,6 +16,7 @@ faq: [{"question": "My pipe burst and my insurer approved the water damage claim
 published_at: "2026-08-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 The short answer: it depends on *how* the water got in. Homeowners insurance typically covers sudden, accidental water damage, a pipe that bursts overnight, a washing machine hose that fails, a dishwasher that overflows. It almost never covers damage that built up slowly over time, water that entered from the ground, or flooding from a river or heavy rain. Understanding which side of that line your situation falls on is the difference between a covered claim and a bill you pay entirely out of pocket.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself without hiring a lab?", "an
 published_at: "2026-08-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 Most mold you find in a home is not the toxic black mold you've read about, but some of it is, and the color alone won't tell you which is which. Here's the short answer: *Stachybotrys chartarum*, the mold commonly called "black mold," is one specific species among tens of thousands. It is dark greenish-black, slimy when wet, and grows almost exclusively on materials that have stayed wet for an extended period, think drywall, ceiling tiles, or wood that never fully dried after a flood. Most of the dark spots you find in a bathroom grout line or around a window seal are something else entirely, and that distinction matters when you're deciding how urgently to act.
 

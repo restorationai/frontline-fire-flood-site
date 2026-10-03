@@ -17,6 +17,7 @@ faq: [{"question": "How quickly does storm damage need to be addressed in Puyall
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Jared Toppenberg"
 ---
 **TL;DR:** After a windstorm damages your Puyallup home, secure the structure first (board-ups, roof tarps), document everything before touching it, then call a licensed storm damage restoration company. Most homeowners policies cover sudden wind and storm damage, but the clock starts immediately on mold risk and further structural damage. An IICRC-certified crew can assess, tarp, dry, and rebuild in a coordinated process that protects your insurance claim from the start.
 

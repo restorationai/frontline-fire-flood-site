@@ -17,6 +17,7 @@ faq: [{"question": "How long does fire and smoke restoration typically take?", "
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Jared Toppenberg"
 ---
 **TL;DR:** Fire and smoke restoration is the process of drying out firefighting water, removing acidic soot residue, cleaning or replacing damaged contents, and eliminating smoke odor from a structure after a fire. It should start within 24 to 48 hours because soot keeps etching metal, yellowing plastic, and staining grout the longer it sits. Most homeowners policies cover it under the dwelling and personal property sections when the fire was accidental, and a written scope of work protects the claim from the start.
 

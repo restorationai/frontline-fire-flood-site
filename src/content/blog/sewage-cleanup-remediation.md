@@ -17,6 +17,7 @@ faq: [{"question": "Is a sewage backup covered by homeowners insurance?", "answe
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Jared Toppenberg"
 ---
 **TL;DR:** Sewage backups are classified as Category 3 water, also called black water, and they carry bacteria, viruses, and parasites that make DIY cleanup risky. Professional remediation removes contaminated materials, extracts standing water, disinfects every affected surface, and dries the structure to the IICRC S500 standard. Most homeowners policies cover sudden sewage backups if you carry a sewer backup rider, but coverage depends on the cause. Acting within the first few hours limits how much flooring, drywall, and insulation has to be torn out.
 

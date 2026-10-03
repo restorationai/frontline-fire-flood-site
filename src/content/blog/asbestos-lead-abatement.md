@@ -17,6 +17,7 @@ faq: [{"question": "Is asbestos abatement required before renovation in Olympia,
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Jared Toppenberg"
 ---
 **TL;DR:** Asbestos and lead abatement in Olympia, WA involves testing, containment, licensed removal, and air clearance testing by a certified contractor. Homes and commercial buildings built before 1980 are the most likely to contain these hazards. Washington State requires licensed abatement contractors for regulated work, and disturbing these materials without proper controls creates serious health and legal liability. If you're planning a renovation, responding to damage, or buying an older property near downtown Olympia or the South Capitol neighborhood, get a professional assessment before any demolition or repair work begins.
 

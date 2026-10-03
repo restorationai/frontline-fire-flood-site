@@ -16,6 +16,7 @@ faq: [{"question": "Can I choose my own restoration company, or does my insuranc
 published_at: "2026-08-26"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 Choosing a restoration company after a loss is one of the most consequential decisions you'll make as a property owner, and it usually happens when you're already stressed, wet, or watching smoke damage darken your ceiling. The short answer: vet the company *before* you sign anything. Check that they carry the right certifications and insurance, confirm they'll document the damage in a format your adjuster will accept, and make sure the scope of work is in writing before a single piece of drywall comes down. Everything below expands on exactly how to do that.
 

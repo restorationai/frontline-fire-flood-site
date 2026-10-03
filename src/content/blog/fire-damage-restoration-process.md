@@ -16,6 +16,7 @@ faq: [{"question": "Can smoke damage occur in rooms where there was no fire?", "
 published_at: "2026-08-28"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 After a house fire, most people expect the hardest part to be the fire itself. It isn't. The days and weeks that follow, the soot on every surface, the smoke smell baked into insulation, the decisions about what can be saved and what can't, are where the real work happens. Understanding the fire damage restoration process before you're in the middle of it helps you ask better questions, avoid costly mistakes, and know when the situation is beyond a weekend's worth of cleaning supplies.
 

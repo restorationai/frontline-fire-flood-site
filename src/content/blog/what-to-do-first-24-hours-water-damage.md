@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after water damage?",
 published_at: "2026-08-31"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jared Toppenberg"
 ---
 If water is actively spreading through your home right now, stop the source first, find your main water shutoff valve and turn it off. Then move people and pets out of the affected area. Everything after that matters, but nothing matters more than those two steps. The next 24 hours will determine how much of your home can be saved, how much mold you'll be fighting in two weeks, and how smoothly your insurance claim goes. Here's what to do, in order.
 
