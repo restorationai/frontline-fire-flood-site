@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Frontline Fire & Flood | Restoration Services in Lakewood, WA"
-h1: "24/7 Restoration Services in Lakewood"
-meta_description: "Frontline Fire & Flood provides 24/7 water, fire, mold, and storm damage restoration across Lakewood and surrounding areas. Licensed, insured, IICRC-certified. Call (253) 200-0503."
-primary_keyword: "restoration services lakewood"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Lakewood, WA | Frontline Fire & Flood"
+h1: "24/7 Water Damage Restoration in Lakewood, WA"
+meta_description: "Frontline Fire & Flood provides water damage restoration in Lakewood, WA, answering 24/7. IICRC certified. Call (253) 200-0503 now."
+primary_keyword: "water damage restoration lakewood"
+secondary_keywords: ["best restoration company in lakewood", "restoration company lakewood", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "5da46da6937e93ea"
