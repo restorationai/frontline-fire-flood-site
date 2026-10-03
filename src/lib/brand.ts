@@ -58,7 +58,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
-  certifications: ["IICRC CERTIFIED FIRM", "IICRC AMRT (MOLD)", "IICRC WRT (WATER)", "IICRC FSRT (FIRE & SMOKE)", "IICRC ASD (STRUCTURAL DRYING)", "EPA LEAD-SAFE CERTIFIED", "OSHA TRAINED"] as string[],
+  certifications: ["IICRC Certified Firm", "IICRC AMRT (Mold)", "IICRC WRT (Water)", "IICRC FSRT (Fire & Smoke)", "IICRC ASD (Structural Drying)", "EPA Lead-Safe Certified", "OSHA Trained"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/FrontlineFireFlood/", "https://www.instagram.com/frontline_fire_and_flood/", "https://frontlinefireflood.com/meet-the-team/", "https://maps.google.com/maps?cid=7859860235811134372", "https://frontlinefireflood.com/service-areas/midland-wa/commercial-restoration/", "https://www.yellowpages.com/tacoma-wa/mip/frontline-fire-flood-578895094"] as string[],
