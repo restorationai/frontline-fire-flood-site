@@ -70,6 +70,6 @@ Lakewood and the surrounding South Sound area sit on a mix of clay-heavy soils t
 
 ## Service area
 
-Frontline Fire & Flood is based in Lakewood, WA and responds to sewage cleanup and sanitization calls throughout Pierce County and the broader South Sound, including Tacoma, University Place, Puyallup, Spanaway, Gig Harbor, Federal Way, and surrounding communities. City-specific service pages link back here for full process and technical detail.
+Frontline Fire & Flood is based in Lakewood, WA and responds to sewage cleanup and sanitization calls throughout Pierce County and the broader South Sound, including [Tacoma](/service-areas/tacoma-wa/sewage-cleanup/), University Place, Puyallup, Spanaway, Gig Harbor, Federal Way, and surrounding communities. City-specific service pages link back here for full process and technical detail.
 
 If you're standing in a room that smells like sewage, the safest move is to stay out of the affected area and call now, 24 hours a day, every day. Call **(253) 200-0503** to begin raw sewage removal and get a written scope before any work starts.
