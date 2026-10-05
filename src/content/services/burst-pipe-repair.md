@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/service-areas/anderson-island-wa/"
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "burst-pipe-repair"}]
 faq: []
 service_slug: "burst-pipe-repair"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug frontline-fire-flood` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/service-areas/anderson-island-wa/"
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "water-leak-detection"}]
 faq: []
 service_slug: "water-leak-detection"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug frontline-fire-flood` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 
