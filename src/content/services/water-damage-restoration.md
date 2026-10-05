@@ -20,7 +20,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Lakewood? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Water you can see is only part of the problem. Within the first hour after a pipe bursts, a supply line fails, or a washing machine hose lets go, water is already moving, wicking into drywall, traveling under flooring, pooling inside wall cavities where no one will think to look. By 24 to 48 hours, wet cellulose materials are primed for mold colonization. Water damage restoration is the work of stopping that clock: extracting standing water, pulling moisture out of structural materials before it causes secondary damage, and verifying, with instruments, not guesswork, that the building is actually dry.
+Water you can see is only part of the problem. Within the first hour after a pipe bursts, a supply line fails, or a washing machine hose lets go, water is already moving, wicking into drywall, traveling under flooring, pooling inside wall cavities where no one will think to look. By 24 to 48 hours, wet cellulose materials are primed for [mold](/services/mold-remediation/) colonization. Water damage restoration is the work of stopping that clock: extracting standing water, pulling moisture out of structural materials before it causes secondary damage, and verifying, with instruments, not guesswork, that the building is actually dry.
 
 ## What Water Damage Restoration actually involves
 
@@ -30,7 +30,7 @@ Extraction comes first. Truck-mounted and portable extractors pull standing wate
 
 Once visible water is gone, the harder work begins. Structural drying uses high-velocity air movers and commercial-grade desiccant or refrigerant dehumidifiers to drive evaporation out of framing, subfloor, drywall, and concrete, materials that hold moisture long after the surface feels dry to the touch. Thermal imaging cameras and penetrating moisture meters map the actual wet zone, which is almost always larger than it looks.
 
-For Category 2 (gray water from appliances or overflows) or Category 3 (sewage, floodwater) losses, containment, antimicrobial treatment, and selective demolition of non-salvageable materials are part of the scope. Clean water losses (Category 1) that sit long enough can degrade to Category 2, source classification matters, and it changes what the remediation requires.
+For Category 2 (gray water from appliances or overflows) or Category 3 ([sewage](/services/sewage-cleanup/), floodwater) losses, containment, antimicrobial treatment, and selective demolition of non-salvageable materials are part of the scope. Clean water losses (Category 1) that sit long enough can degrade to Category 2, source classification matters, and it changes what the remediation requires.
 
 The drying phase typically runs three to five days for a standard residential loss, though concrete slabs, multilayer flooring assemblies, and dense framing can extend that window. Daily moisture monitoring documents the drying curve and gives your insurance carrier the data it needs.
 
@@ -75,6 +75,6 @@ The Pacific Northwest's wet season runs roughly October through April, and Weste
 
 ## Service area
 
-Frontline Fire & Flood is based in Lakewood and responds to water damage calls throughout the surrounding area, including Tacoma, University Place, Puyallup, Spanaway, Steilacoom, DuPont, and Joint Base Lewis-McChord. Each city-specific service page links back here for the full technical detail on what water damage restoration involves.
+Frontline Fire & Flood is based in Lakewood and responds to water damage calls throughout the surrounding area, including [Tacoma](/service-areas/tacoma-wa/water-damage-restoration/), University Place, Puyallup, Spanaway, Steilacoom, DuPont, and Joint Base Lewis-McChord. Each city-specific service page links back here for the full technical detail on what water damage restoration involves.
 
 If you're standing in a wet room right now, the next step is a moisture assessment, not a ballpark estimate, but an instrument-based map of exactly where the water went. Call Frontline Fire & Flood at (253) 200-0503 any time, day or night, to schedule yours.

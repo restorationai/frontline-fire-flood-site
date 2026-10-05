@@ -77,6 +77,6 @@ The region's mild, wet winters also mean that drying conditions indoors are natu
 
 ## Service area
 
-Frontline Fire & Flood is based in Lakewood, WA and responds to storm damage across the South Sound, including Tacoma, University Place, Puyallup, Spanaway, Federal Way, Gig Harbor, and surrounding Pierce and King County communities. City-specific pages for each area link back here for the full service description.
+Frontline Fire & Flood is based in Lakewood, WA and responds to storm damage across the South Sound, including [Tacoma](/service-areas/tacoma-wa/storm-damage-restoration/), University Place, Puyallup, Spanaway, Federal Way, Gig Harbor, and surrounding Pierce and King County communities. City-specific pages for each area link back here for the full service description.
 
 If your roof is open, your walls are wet, or a tree came through overnight, call **(253) 200-0503** now. Frontline Fire & Flood operates 24/7, is IICRC certified, EPA Lead-Safe certified, and licensed in Washington (#CCFRONTFF761CB). The sooner the structure is sealed and drying begins, the smaller the final scope of work, and the stronger your insurance claim.

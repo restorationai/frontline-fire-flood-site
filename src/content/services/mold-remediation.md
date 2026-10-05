@@ -71,6 +71,6 @@ HVAC systems in homes that were closed up during rainy season can also distribut
 
 ## Service area
 
-Frontline Fire & Flood is based in Lakewood, WA and responds to mold remediation calls throughout the South Sound, including Tacoma, University Place, Steilacoom, DuPont, Joint Base Lewis-McChord, Puyallup, Spanaway, and surrounding Pierce County communities. City-specific pages for each area link back to this page for the full technical detail on how remediation works.
+Frontline Fire & Flood is based in Lakewood, WA and responds to mold remediation calls throughout the South Sound, including [Tacoma](/service-areas/tacoma-wa/mold-remediation/), University Place, Steilacoom, DuPont, Joint Base Lewis-McChord, Puyallup, Spanaway, and surrounding Pierce County communities. City-specific pages for each area link back to this page for the full technical detail on how remediation works.
 
 If you're smelling something you can't find, or you've had a water event in the last few weeks and want to know whether mold has already taken hold, the right next step is air quality testing, not waiting. Call Frontline Fire & Flood at (253) 200-0503, available 24/7, to request an air quality assessment and get a written scope before any work begins.

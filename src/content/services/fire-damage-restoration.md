@@ -20,7 +20,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Lakewood? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Smoke doesn't stop moving when the flames go out. Within hours of a house fire, soot particles migrate through HVAC ducts, settle into closet corners, and bond chemically to painted walls, turning a contained kitchen fire into a whole-house odor problem. The window to limit secondary damage is short, and the materials involved (synthetic fabrics, engineered wood, modern insulation) produce residues that behave very differently from the wood-ash soot of older construction. Getting fire cleanup right means understanding what burned, not just what burned down.
+Smoke doesn't stop moving when the flames go out. Within hours of a house fire, soot particles migrate through HVAC ducts, settle into closet corners, and bond chemically to painted walls, turning a contained kitchen fire into a whole-house [odor problem](/services/odor-removal/). The window to limit secondary damage is short, and the materials involved (synthetic fabrics, engineered wood, modern insulation) produce residues that behave very differently from the wood-ash soot of older construction. Getting fire cleanup right means understanding what burned, not just what burned down.
 
 ## What fire damage restoration actually involves
 
@@ -75,6 +75,6 @@ Older housing stock in established Lakewood neighborhoods, particularly homes bu
 
 ## Service area
 
-Frontline Fire & Flood is based in Lakewood, WA and responds to fire damage throughout Pierce County and the surrounding region, including Tacoma, University Place, Puyallup, Federal Way, Gig Harbor, and Spanaway. The city-specific pages for each community link back here for the full technical detail on the fire and smoke restoration process.
+Frontline Fire & Flood is based in Lakewood, WA and responds to fire damage throughout Pierce County and the surrounding region, including [Tacoma](/service-areas/tacoma-wa/fire-damage-restoration/), University Place, Puyallup, Federal Way, Gig Harbor, and Spanaway. The city-specific pages for each community link back here for the full technical detail on the fire and smoke restoration process.
 
 If you're looking at smoke staining on your ceiling right now, the next step is a scope assessment, not a cleaning estimate. Call Frontline Fire & Flood at (253) 200-0503 any time, day or night, to begin smoke and soot removal and get a written scope before any work starts.
