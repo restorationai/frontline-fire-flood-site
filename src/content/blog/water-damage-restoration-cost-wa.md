@@ -104,7 +104,7 @@ For a step-by-step guide to what you should do in the first 24 hours before a cr
 
 ## What Should You Do Right Now?
 
-If water is still present, your first call is to stop the source. Shut off the main water supply if a pipe or appliance is the cause. If the water involves electrical panels, outlets, or wiring, leave the area and call your utility before re-entering. The [EPA's guidance on flood cleanup](https://www.epa.gov/indoor-air-quality-iaq/flooding-and-indoor-air-quality) covers the health risks of standing water and when to involve professionals.
+If water is still present, your first call is to stop the source. Shut off the main water supply if a pipe or appliance is the cause. If the water involves electrical panels, outlets, or wiring, leave the area and call your utility before re-entering. The [EPA's guidance on flood cleanup](https://www.epa.gov/indoor-air-quality-iaq) covers the health risks of standing water and when to involve professionals.
 
 Once the source is controlled, call a certified restoration company. The longer water sits in a Pacific Northwest home (where ambient humidity is already high), the faster secondary damage compounds. Mold can begin colonizing wet building materials in as little as 48 to 72 hours under the right conditions.
 

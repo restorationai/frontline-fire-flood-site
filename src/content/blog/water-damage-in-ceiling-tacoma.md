@@ -43,7 +43,7 @@ Use this quick gut-check: if the stain is small, dry to the touch, and hasn't ch
 Ceiling water damage repair is a sequence, not a single step: stop the water source, remove the saturated material, dry the structure, then rebuild the surface. Skipping the drying step and jumping straight to a cosmetic patch is the single most common mistake homeowners make.
 
 1. **Stop the source.** Shut off the supply line, tarp the roof, or clear the gutter, whatever caused it.
-2. **Contain and dry.** Trapped insulation and wet framing need to reach a dry standard before anything gets covered up again. Restoration crews follow the [IICRC S500](https://www.iicrc.org/page/IICRCS500) standard for water damage, which sets the benchmark for how dry is actually dry, using air movers and dehumidifiers over several days, not a box fan overnight.
+2. **Contain and dry.** Trapped insulation and wet framing need to reach a dry standard before anything gets covered up again. Restoration crews follow the [IICRC S500](https://iicrc.org/s500/) standard for water damage, which sets the benchmark for how dry is actually dry, using air movers and dehumidifiers over several days, not a box fan overnight.
 3. **Remove damaged material.** Saturated drywall, blown insulation, and any wet plaster that won't bond again come out. Insulation in particular rarely dries fast enough to save once it's wet.
 4. **Rebuild.** New drywall or plaster, taped, mudded, primed, and painted to match.
 
