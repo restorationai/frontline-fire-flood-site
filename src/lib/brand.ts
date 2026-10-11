@@ -61,7 +61,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "IICRC AMRT (Mold)", "IICRC WRT (Water)", "IICRC FSRT (Fire & Smoke)", "IICRC ASD (Structural Drying)", "EPA Lead-Safe Certified", "OSHA Trained"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.facebook.com/FrontlineFireFlood/", "https://www.instagram.com/frontline_fire_and_flood/", "https://frontlinefireflood.com/meet-the-team/", "https://maps.google.com/maps?cid=7859860235811134372", "https://frontlinefireflood.com/service-areas/midland-wa/commercial-restoration/", "https://www.yellowpages.com/tacoma-wa/mip/frontline-fire-flood-578895094"] as string[],
+  sameAsUrls: ["https://www.facebook.com/FrontlineFireFlood/", "https://www.instagram.com/frontline_fire_and_flood/", "https://frontlinefireflood.com/meet-the-team/", "https://frontlinefireflood.com/service-areas/midland-wa/commercial-restoration/", "https://maps.google.com/maps?cid=7859860235811134372", "https://www.yelp.com/biz/frontline-fire-and-flood-tacoma", "https://www.yellowpages.com/tacoma-wa/bpp/frontline-fire-flood-575371458"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
