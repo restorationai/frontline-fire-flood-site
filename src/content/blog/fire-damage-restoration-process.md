@@ -75,7 +75,7 @@ Call a professional restoration company when:
 - You're filing an insurance claim (a professional scope protects your claim)
 - There was any water used to suppress the fire
 
-Frontline Fire & Flood handles both [fire damage restoration](/fire-damage-restoration) and [smoke damage restoration](/smoke-damage-restoration) for properties in Lakewood and the surrounding South Sound area. If you're unsure whether your situation warrants a professional assessment, a phone call to +1 (253) 200-0503 costs nothing and can help you make that call with better information.
+Frontline Fire & Flood handles both [fire damage restoration](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/) for properties in Lakewood and the surrounding South Sound area. If you're unsure whether your situation warrants a professional assessment, a phone call to +1 (253) 200-0503 costs nothing and can help you make that call with better information.
 
 ## The Longer Recovery: What to Expect Over Weeks and Months
 

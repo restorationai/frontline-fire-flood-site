@@ -50,7 +50,7 @@ Beyond certifications, look for:
 
 **Direct insurance billing experience.** Most major carriers have preferred protocols for how losses are documented and billed. A contractor who regularly works with adjusters knows how to submit a Xactimate estimate, how to photograph damage in a way that supports the claim, and how to handle supplements when hidden damage is discovered mid-job.
 
-Frontline Fire & Flood handles [water damage restoration](/water-damage-restoration), [fire damage restoration](/fire-damage-restoration), and [mold remediation](/mold-remediation) in Lakewood and the surrounding area, and works directly with insurance carriers on documentation and billing.
+Frontline Fire & Flood handles [water damage restoration](/services/water-damage-restoration/), [fire damage restoration](/services/fire-damage-restoration/), and [mold remediation](/services/mold-remediation/) in Lakewood and the surrounding area, and works directly with insurance carriers on documentation and billing.
 
 ## Questions to Ask Before You Hire Anyone
 
