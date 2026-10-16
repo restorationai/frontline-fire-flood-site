@@ -36,12 +36,12 @@ export const brand = {
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
-  addressCity: "Lakewood",
+  addressCity: "Tacoma",
   addressState: "WA",
-  streetAddress: "9520 Front St",
-  postalCode: "98499",
-  lat: "47.1717649",
-  lng: "-122.518458",
+  streetAddress: "10735 A St South, Unit A",
+  postalCode: "98444",
+  lat: "47.15919",
+  lng: "-122.427492",
   placeId: "ChIJK-c9495UkFQRpJu9uz3VE20",
   googleCid: "",
   imagesBase: "https://images.frontlinefireflood.com",
