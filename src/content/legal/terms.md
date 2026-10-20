@@ -1,51 +1,85 @@
 ---
 archetype: "legal"
-title: "Terms of Service | Frontline Fire & Flood"
-h1: "Terms of Service"
-meta_description: "Terms of Service | {brand.display_name}."
+title: "Terms & Conditions | Frontline Fire & Flood"
+h1: "Terms & Conditions"
+meta_description: "Terms & Conditions | {brand.display_name}."
 primary_keyword: "frontline fire & flood terms"
 secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
 plan_hash: "355afc1b677cb805"
 generated_at: "2026-09-03T05:01:10.056460+00:00"
-manual_override: false
+manual_override: true
 internal_links: []
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Terms of Service"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Terms & Conditions"}]
 faq: []
 ref: "terms"
 rendered: true
 ---
-## What These Terms Cover
+**Last Updated:** September 18, 2026  
+**Company Name:** Topp Works LLC DBA Frontline Fire & Flood  
+**Website:** https://frontlinefireflood.com/
 
-These Terms of Service apply to your use of the Frontline Fire & Flood website at frontlinefireflood.com and to any service relationship that begins through it. Using this site means you accept these terms. If anything here is unclear, reach out before you proceed, contact us at service@frontlinefireflood.com or call (253) 200-0503.
+## 1. Program Description and Acceptance of Terms
 
-## Service Area and Scope of Work
+Topp Works LLC DBA Frontline Fire & Flood ("Company," "we," "our," or "us") operates one or more text messaging, email, and call programs (collectively, the "Programs") to communicate with customers and prospects regarding our services. These Programs may include, without limitation:
 
-Frontline Fire & Flood provides water damage, fire damage, and related restoration services to residential and commercial properties within our defined service area in and around Lakewood, WA and Pierce County. If you contact us from outside that area, we will let you know promptly rather than schedule a visit we cannot fulfill.
+- Service-related alerts and reminders.
+- Customer support and scheduling updates.
+- Post-project follow-up communications, including satisfaction surveys, Net Promoter Score (NPS) collection, qualitative feedback about completed work, and invitations to leave public reviews on third-party platforms.
+- Where permitted, limited informational or promotional messages related to our services.
 
-Every project begins with an on-site assessment. Any estimate, quote, or scope of work discussed before that assessment, whether by phone, email, or through this website, is informational only. It does not constitute a binding contract. The actual service relationship is governed by a signed work-authorization form, which will detail the agreed scope, timeline, and cost. No work begins until that document is executed.
+By providing your contact information (including your mobile phone number and email address) and opting in to receive messages from us, or by using our Website or services, you agree to these Terms & Conditions and our Privacy Policy (together, the "Terms"). If you do not agree, please do not enroll in any Program or use the Website.
 
-## Payment Terms
+- Program / Brand Name(s): "Topp Works LLC DBA Frontline Fire & Flood Customer Communications"
+- Program Description: One-time and recurring communications by SMS, MMS, phone, and email related to service scheduling and support, post-project surveys (including NPS), feedback collection, and invitations to leave public reviews, as well as other service-related and, where permitted, limited promotional messages.
 
-Accepted payment methods and due dates are stated in your work-authorization agreement. Payment is expected according to the schedule outlined there. Where Frontline Fire & Flood coordinates directly with your insurance carrier, we will document the loss, photograph affected materials, and submit required documentation on your behalf, but you remain responsible for any balance not covered by your policy, including deductibles. We do not guarantee specific insurance outcomes, as coverage decisions rest with your carrier.
+## 2. Message Frequency and Charges
 
-## Liability
+- Message and data rates may apply.
+- Message frequency may vary based on your interactions with us and which Programs you join (for example, number of projects, survey requests, or inbound inquiries).
+- Your wireless carrier may charge you for text messages according to your mobile plan. You are responsible for any such charges.
 
-Frontline Fire & Flood operates as a licensed contractor under Washington State regulations. Our liability is limited to the services described in your signed work-authorization form and does not extend to pre-existing conditions, concealed structural defects discovered during work, or losses outside the agreed scope. Nothing in these terms limits rights you may have under applicable Washington State law.
+## 3. Opt-In and Opt-Out
 
-## Insurance Coordination
+You may opt in to receive messages from us by, for example, submitting a form on our Website that includes consent language, requesting text or email updates, providing your information during a service interaction, or otherwise agreeing to receive communications.
 
-With your written or verbal authorization, we may communicate directly with your insurance adjuster or carrier to coordinate documentation and billing. We do not share your information with any third party without that authorization. See our Privacy Policy for full details on how your information is handled.
+**Opt-Out Instructions (STOP):**
 
-## Dispute Resolution
+- To stop receiving text messages from a Program, reply "STOP" to any message we send you.
+- After you send "STOP," we may send you a one-time confirmation message to confirm that you have been unsubscribed from that Program. After this, you will no longer receive messages from that specific Program, but you may still receive messages from other Programs you have joined (unless and until you opt out of those Programs as well).
 
-If a dispute arises from services provided under a signed work-authorization, both parties agree to attempt resolution in good faith before pursuing formal action. Any legal proceedings will be governed by the laws of Washington State, with venue in Pierce County.
+**Help Instructions (HELP):**
 
-## Changes to These Terms
+- If you need assistance with a Program, reply "HELP" to any message or contact us using the information in Section 6 (Customer Support).
 
-We may update these terms from time to time. The current version will always be available at frontlinefireflood.com/terms. Continued use of the site after an update constitutes acceptance of the revised terms.
+You may also contact us directly using the information in Section 6 to request that we stop sending messages via SMS, email, or phone.
 
-## Contact
+## 4. Carrier Disclosures
 
-Questions about these terms can be directed to service@frontlinefireflood.com or by mail to 9520 Front St, Lakewood, WA 98499.
+Carriers are not liable for any delayed or undelivered messages. Availability of a Program and performance of message delivery may be affected by your carrier's coverage and network conditions.
+
+## 5. Post-Project Survey and Review Requests
+
+After a project or service is completed, we may contact you by phone, SMS/MMS, or email to:
+
+- Request that you complete a satisfaction survey.
+- Collect a Net Promoter Score (NPS) or other rating regarding your experience.
+- Gather qualitative feedback about the work that was performed.
+- Ask you to leave a review on public platforms (such as online review or social media sites), at your discretion.
+
+Your participation in surveys, feedback requests, or public reviews is voluntary. Declining to participate will not affect your ability to receive services from us.
+
+## 6. Customer Support and Contact Information
+
+If you have questions about these Terms or any Program, or if you need help, please contact us:
+
+- Phone: (253) 235-1077
+- Email: admin@frontlinefireflood.com
+- Mailing Address: 10735 A St S # A, Tacoma, WA 98444
+
+You may also reply HELP to any text message for assistance.
+
+## 7. Link to Privacy Policy
+
+For more information about how we collect, use, and share your information, including information collected through the Programs and the Website, please review our [Privacy Policy](/privacy/) (Section 8, "Privacy Policy").
