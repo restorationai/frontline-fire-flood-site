@@ -1,0 +1,32 @@
+---
+import { brand } from '~/lib/brand';
+
+// Jared 2026-09-15: "I also uploaded individual photos of everyone on my
+// team. Please use those photos to make a team photo." Real headshots only
+// (13 people, the triple-uploaded tech once, the navy polo matched to the
+// team's royal blue). Shown uncropped so nobody at an edge gets cut off.
+const members = Array.from({ length: 13 }, (_, i) => `/images/team/member-${String(i + 1).padStart(2, '0')}.webp`);
+---
+
+<section id="team" class="bg-white py-16 md:py-24 border-t border-dark/10">
+  <div class="container-wide">
+    <div class="eyebrow">Our People</div>
+    <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tighter">Meet the Team</h2>
+    <p class="text-lg text-dark/85 mt-4 mb-10 max-w-2xl">The {brand.displayName} crew who answer the call and show up at your door.</p>
+    <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6 list-none p-0 m-0">
+      {members.map((src) => (
+        <li class="overflow-hidden rounded-sm border border-dark/10 shadow-md bg-dark/5">
+          <img
+            src={src}
+            width="600"
+            height="800"
+            alt={`${brand.displayName} team member`}
+            loading="lazy"
+            decoding="async"
+            class="w-full h-auto object-contain"
+          />
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>

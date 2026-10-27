@@ -7,6 +7,7 @@ import FreeEstimateForm from "~/components/FreeEstimateForm.astro";
 import InternalLinks from "~/components/InternalLinks.astro";
 import ServicesHubGrid from "~/components/ui/ServicesHubGrid.astro";
 import ServiceAreasHubGrid from "~/components/ui/ServiceAreasHubGrid.astro";
+import TeamSection from "~/components/ui/TeamSection.astro";
 import { brand } from "~/lib/brand";
 
 export async function getStaticPaths() {
@@ -79,6 +80,7 @@ const proseHeading =
     </div>
   </section>
 
+  {archetype === "about" && <TeamSection />}
 
   <FAQSection faq={data.faq} />
 
