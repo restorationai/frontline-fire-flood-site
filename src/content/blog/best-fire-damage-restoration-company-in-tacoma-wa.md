@@ -60,7 +60,7 @@ A fire restoration company stabilizes the structure, removes smoke and soot resi
 4. **Odor removal**, often with HEPA air scrubbers or thermal fogging to reach smoke particles that have settled into carpet, drywall, and HVAC ductwork.
 5. **Contents restoration and storage**, pulling salvageable belongings offsite to clean and store them while the structure dries and clears.
 
-Our [fire damage restoration process](/blog/fire-damage-restoration-process/) breaks each of these phases down in more detail if you want to see what to expect day by day. For the Tacoma-specific version of this question, our guide on [who to call after a house fire in Tacoma](/blog/who-to-call-after-a-house-fire-in-tacoma-wa/) covers the first-hour decisions.
+Our [fire damage restoration process](/blog/fire-damage-restoration-process/) breaks each of these phases down in more detail if you want to see what to expect day by day. For the Tacoma-specific version of this question, our guide on [who to call after a house fire in Tacoma](/blog/who-to-call-after-a-house-fire-in-tacoma-wa/) covers the first-hour decisions, and our [fire restoration in Tacoma, WA](/service-areas/tacoma-wa/fire-damage-restoration/) page shows how we handle it locally.
 
 ## What Questions Should You Ask Before Hiring a Fire Restoration Company?
 

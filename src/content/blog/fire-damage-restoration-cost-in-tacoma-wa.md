@@ -80,7 +80,7 @@ Our full walkthrough of this sequence, including timelines for each phase, is in
 
 For an accurate number, you need an on-site inspection from a company that documents the scope for your insurance adjuster, not a phone-quoted estimate. A written scope, backed by moisture readings, soot testing, and photo documentation, is what actually gets a claim paid correctly the first time.
 
-Frontline Fire & Flood provides on-site fire damage assessments across Tacoma, from the North End to the Stadium District, and builds the itemized scope adjusters use to process claims. [Call Frontline Fire & Flood at (253) 200-0503](tel:+12532000503) to schedule an assessment, or start with the [fire damage restoration](/services/fire-damage-restoration/) page to see the full process.
+Frontline Fire & Flood provides on-site fire damage assessments across Tacoma, from the North End to the Stadium District, and builds the itemized scope adjusters use to process claims. [Call Frontline Fire & Flood at (253) 200-0503](tel:+12532000503) to schedule an assessment, or start with our [fire restoration in Tacoma, WA](/service-areas/tacoma-wa/fire-damage-restoration/) page to see the full process.
 
 Get a written scope before you agree to any work. A verbal ballpark number isn't what your insurance company will pay against, and it isn't what protects you if the job turns out to be bigger than it looked from the doorway.
 

@@ -39,7 +39,7 @@ Because we're available around the clock, you don't have to wait until Monday mo
 
 ## Service area
 
-Our primary service area covers Lakewood and the broader South Sound region of Washington. We regularly respond to calls in Tacoma, University Place, Puyallup, Spanaway, and surrounding Pierce County communities. If you're unsure whether we cover your address, call us, we'll tell you straight.
+Our primary service area covers Lakewood and the broader South Sound region of Washington. We regularly respond to calls in Tacoma, University Place, Puyallup, Spanaway, and surrounding Pierce County communities, and our [fire damage restoration in Tacoma](/service-areas/tacoma-wa/fire-damage-restoration/) page covers the city in detail. If you're unsure whether we cover your address, call us, we'll tell you straight.
 
 Lakewood's mix of mid-century construction, slab-on-grade foundations, and crawl-space homes each present different moisture and damage challenges. Knowing the local housing stock means we're not guessing when we walk through the door.
 
