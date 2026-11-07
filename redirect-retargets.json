@@ -1,0 +1,74 @@
+{
+ "/service-areas/anderson-island-wa/water-cleanup": {
+  "planned": "/service-areas/anderson-island-wa/emergency-water-removal/",
+  "now": "/service-areas/anderson-island-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fircrest-wa/water-cleanup": {
+  "planned": "/service-areas/fircrest-wa/emergency-water-removal/",
+  "now": "/service-areas/fircrest-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fort-lewis-wa/water-cleanup": {
+  "planned": "/service-areas/fort-lewis-wa/emergency-water-removal/",
+  "now": "/service-areas/fort-lewis-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/frederickson-wa/water-cleanup": {
+  "planned": "/service-areas/frederickson-wa/emergency-water-removal/",
+  "now": "/service-areas/frederickson-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mcchord-afb-wa/water-cleanup": {
+  "planned": "/service-areas/mcchord-afb-wa/emergency-water-removal/",
+  "now": "/service-areas/mcchord-afb-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/midland-wa/water-cleanup": {
+  "planned": "/service-areas/midland-wa/emergency-water-removal/",
+  "now": "/service-areas/midland-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-fort-lewis-wa/water-cleanup": {
+  "planned": "/service-areas/north-fort-lewis-wa/emergency-water-removal/",
+  "now": "/service-areas/north-fort-lewis-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/steilacoom-wa/water-cleanup": {
+  "planned": "/service-areas/steilacoom-wa/emergency-water-removal/",
+  "now": "/service-areas/steilacoom-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/summit-view-wa/water-cleanup": {
+  "planned": "/service-areas/summit-view-wa/emergency-water-removal/",
+  "now": "/service-areas/summit-view-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/summit-wa/water-cleanup": {
+  "planned": "/service-areas/summit-wa/emergency-water-removal/",
+  "now": "/service-areas/summit-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/water-cleanup": {
+  "planned": "/service-areas/waller-wa/emergency-water-removal/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wollochet-wa/water-cleanup": {
+  "planned": "/service-areas/wollochet-wa/emergency-water-removal/",
+  "now": "/service-areas/wollochet-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
