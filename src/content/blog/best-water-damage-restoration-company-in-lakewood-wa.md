@@ -83,11 +83,11 @@ A 4.4 rating across 122 reviews reflects solid but not perfect customer outcomes
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Frontline Fire & Flood | 5.0 |, | Yes | Yes (Firm + WRT + ASD) |
-| ProRevive Restoration | 5.0 | 26 |, |, |
-| SERVPRO of University Place/Lakewood West | 4.7 | 73 |, |, |
-| Seatown Restoration LLC | 5.0 | 22 |, |, |
-| Washington Restorer LLC | 4.4 | 122 |, |, |
+| Frontline Fire & Flood | 4.9 | 137 | Yes | Yes (Firm + WRT + ASD) |
+| ProRevive Restoration | 5.0 | 26 | Not listed | Not listed |
+| SERVPRO of University Place/Lakewood West | 4.7 | 73 | Not listed | Not listed |
+| Seatown Restoration LLC | 5.0 | 22 | Not listed | Not listed |
+| Washington Restorer LLC | 4.4 | 122 | Not listed | Not listed |
 
 *Frontline Fire & Flood's Google review count reflects their verified business profile. 24/7 and IICRC status for competitors is not publicly confirmed and should be verified directly.*
 
