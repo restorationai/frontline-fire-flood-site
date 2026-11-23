@@ -29,8 +29,8 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(253) 342-4491",
-  trackingPhoneRaw: "+12533424491",
+  trackingPhone: "(877) 820-8234",
+  trackingPhoneRaw: "+18778208234",
   email: "service@frontlinefireflood.com",
   hours: "24/7",
   // AVAILABILITY 24/7 (Santino 2026-11-21, scripts/availability.py): calls are
