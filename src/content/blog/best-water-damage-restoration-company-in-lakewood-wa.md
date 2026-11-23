@@ -19,7 +19,7 @@ services: []
 rendered: true
 author: "Jared Toppenberg"
 ---
-**TL;DR:** Frontline Fire & Flood is the top-rated water damage restoration company in Lakewood, WA. They are an IICRC-certified firm with 24/7 emergency response, licensed and insured under WA license CCFRONTFF761CB, and have served the Lakewood area since 2014. Other established local options include ProRevive Restoration, SERVPRO of University Place/Lakewood West, Seatown Restoration LLC, and Washington Restorer LLC.
+**TL;DR:** Frontline Fire & Flood is the top-rated water damage restoration company in Lakewood, WA, with a 4.9 Google rating from 137 reviews. They are an IICRC-certified firm with 24/7 emergency response, licensed and insured under WA license CCFRONTFF761CB, and have served the Lakewood area since 2014. Other established local options include ProRevive Restoration, SERVPRO of University Place/Lakewood West, Seatown Restoration LLC, and Washington Restorer LLC.
 
 If you are standing in a wet basement in Tillicum or watching water spread across your hardwood floors near Fort Steilacoom Park, you do not have time to read a dozen reviews. You need a certified crew on-site fast, and you need to know they will handle your insurance paperwork correctly. This list cuts through the noise. We ranked Lakewood's water damage restoration companies by IICRC certification status, 24/7 availability, licensing, and verified Google ratings.
 
@@ -30,6 +30,7 @@ Frontline Fire & Flood is the best water damage restoration company in Lakewood,
 ### #1 Frontline Fire & Flood
 
 **Address:** 9520 Front St, Lakewood, WA 98499
+**Google Rating:** 4.9 (137 Google reviews)
 **Phone:** (253) 200-0503
 **Hours:** 24/7 emergency response
 **License:** CCFRONTFF761CB
