@@ -60,12 +60,12 @@ Typical costs depend heavily on the size of the affected area, the water categor
 
 | Scenario | Typical range |
 |---|---|
-| Single room, Category 1 (clean water), caught quickly | $1,200 – $3,500 |
-| Multi-room, Category 1, standard drying | $3,500 – $7,000 |
-| Category 2 (gray water), selective demo required | $5,000 – $12,000 |
-| Category 3 (sewage / floodwater), significant demo | $10,000 – $30,000+ |
-| Crawlspace or basement flooding | $3,000 – $15,000 |
-| Hardwood floor drying with specialty equipment | $2,000 – $6,000 |
+| Single room, Category 1 (clean water), caught quickly | $1,200 to $3,500 |
+| Multi-room, Category 1, standard drying | $3,500 to $7,000 |
+| Category 2 (gray water), selective demo required | $5,000 to $12,000 |
+| Category 3 (sewage / floodwater), significant demo | $10,000 to $30,000+ |
+| Crawlspace or basement flooding | $3,000 to $15,000 |
+| Hardwood floor drying with specialty equipment | $2,000 to $6,000 |
 
 Every loss is different, square footage, building materials, and moisture migration paths all shift the number. Frontline Fire & Flood provides a written scope before work begins so you know exactly what's included. Standard homeowners insurance typically covers sudden and accidental water damage (burst pipes, appliance failures, roof leaks from a storm event) but excludes gradual leaks and ground-level flooding, which requires a separate flood policy. When the water entered through a storm-breached roof, window, or wall, the response is [storm damage restoration](/services/storm-damage-restoration/), which pairs emergency sealing of the structure with the same extraction and instrument-verified structural drying used on any water loss.
 

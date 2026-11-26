@@ -57,12 +57,12 @@ Typical costs depend on the type of material, the quantity, accessibility, and w
 
 | Scenario | Typical range |
 |---|---|
-| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 – $3,000 |
-| Whole-house popcorn ceiling removal | $4,000 – $12,000 |
-| Vinyl floor tile and mastic removal (per room) | $1,000 – $3,500 |
-| Pipe or duct insulation wrap removal | $2,000 – $6,000 |
-| Asbestos inspection and bulk sampling only | $400 – $800 |
-| Commercial or multi-unit project | $8,000 – $50,000+ |
+| Single room popcorn ceiling removal (up to 200 sq ft) | $1,500 to $3,000 |
+| Whole-house popcorn ceiling removal | $4,000 to $12,000 |
+| Vinyl floor tile and mastic removal (per room) | $1,000 to $3,500 |
+| Pipe or duct insulation wrap removal | $2,000 to $6,000 |
+| Asbestos inspection and bulk sampling only | $400 to $800 |
+| Commercial or multi-unit project | $8,000 to $50,000+ |
 
 Every loss and every property is different, Frontline Fire & Flood provides a written scope of work before any abatement begins so there are no surprises. Homeowners insurance typically covers asbestos abatement only when the ACM was disturbed by a covered peril (fire, water damage, storm), elective renovation projects are generally not covered, though a call to your carrier before work begins is always worth making.
 

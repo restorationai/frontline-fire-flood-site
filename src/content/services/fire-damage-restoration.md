@@ -58,12 +58,12 @@ Typical costs vary significantly depending on the size of the affected area, the
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, smoke and soot only | $3,000 – $8,000 |
-| Kitchen fire with protein/grease soot | $5,000 – $15,000 |
-| Whole-house smoke migration, no structural loss | $10,000 – $30,000 |
-| Partial structural loss (one room or wing) | $25,000 – $75,000 |
-| Major structural fire, partial rebuild | $75,000 – $200,000+ |
-| Contents pack-out, cleaning, and storage | $2,500 – $10,000 |
+| Single room, smoke and soot only | $3,000 to $8,000 |
+| Kitchen fire with protein/grease soot | $5,000 to $15,000 |
+| Whole-house smoke migration, no structural loss | $10,000 to $30,000 |
+| Partial structural loss (one room or wing) | $25,000 to $75,000 |
+| Major structural fire, partial rebuild | $75,000 to $200,000+ |
+| Contents pack-out, cleaning, and storage | $2,500 to $10,000 |
 
 Homeowners insurance typically covers fire damage restoration, including structural repairs, contents cleaning, and temporary housing, subject to your policy's deductible and coverage limits. Frontline Fire & Flood works directly with all major carriers and handles the claim documentation from initial scope through final invoice.
 

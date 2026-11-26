@@ -55,11 +55,11 @@ Typical costs run from under a thousand dollars for a small, surface-level bathr
 
 | Scenario | Typical industry range |
 |---|---|
-| Single bathroom, surface mold, tile or grout | $500 – $1,500 |
-| Single room, drywall removal required | $1,500 – $4,000 |
-| Crawl space mold on joists and subfloor | $2,000 – $6,000 |
-| Basement with framing and insulation involved | $4,000 – $10,000 |
-| Multi-room or HVAC-involved contamination | $8,000 – $20,000+ |
+| Single bathroom, surface mold, tile or grout | $500 to $1,500 |
+| Single room, drywall removal required | $1,500 to $4,000 |
+| Crawl space mold on joists and subfloor | $2,000 to $6,000 |
+| Basement with framing and insulation involved | $4,000 to $10,000 |
+| Multi-room or HVAC-involved contamination | $8,000 to $20,000+ |
 
 These are typical industry figures, every loss is different, and Frontline Fire & Flood provides a written scope of work before any remediation begins. Homeowners insurance coverage for mold varies significantly by policy: sudden and accidental water losses (a burst pipe, an appliance failure) are more likely to be covered than long-term leaks or humidity-related growth, so the claim outcome often depends on how the moisture source is documented.
 

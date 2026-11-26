@@ -57,11 +57,11 @@ Typical costs depend heavily on volume, contamination type, and how long items n
 
 | Scenario | Typical range |
 |---|---|
-| Single room, clean water, minimal items | $1,200 – $3,500 |
-| Single room, smoke or sewage contamination | $2,500 – $6,000 |
-| Whole-house pack-out, water damage | $5,000 – $15,000 |
-| Whole-house pack-out, fire/smoke damage | $8,000 – $25,000+ |
-| Extended climate-controlled storage (per month) | $300 – $900 |
+| Single room, clean water, minimal items | $1,200 to $3,500 |
+| Single room, smoke or sewage contamination | $2,500 to $6,000 |
+| Whole-house pack-out, water damage | $5,000 to $15,000 |
+| Whole-house pack-out, fire/smoke damage | $8,000 to $25,000+ |
+| Extended climate-controlled storage (per month) | $300 to $900 |
 | Specialty items (art, antiques, electronics) | Priced separately |
 
 Every loss is different, and Frontline Fire & Flood provides a written scope before any work begins so you know exactly what is being done and why. Homeowners insurance typically covers contents restoration when the loss is caused by a covered peril, fire, burst pipe, storm, and most policies include a separate contents coverage limit; your adjuster can confirm your specific sublimits.

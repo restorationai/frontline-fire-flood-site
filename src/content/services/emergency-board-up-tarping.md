@@ -53,12 +53,12 @@ Typical costs depend on the number of openings, the size and pitch of roof damag
 
 | Scenario | Typical range |
 |---|---|
-| Single broken window, residential | $150 – $350 |
-| Multiple windows (3–6 openings), residential | $400 – $900 |
-| Exterior door board-up | $200 – $450 |
-| Small roof tarp (up to 10 squares) | $500 – $1,200 |
-| Large roof tarp (10–30 squares) | $1,200 – $3,000 |
-| Full post-fire board-up, residential structure | $1,500 – $4,500 |
+| Single broken window, residential | $150 to $350 |
+| Multiple windows (3–6 openings), residential | $400 to $900 |
+| Exterior door board-up | $200 to $450 |
+| Small roof tarp (up to 10 squares) | $500 to $1,200 |
+| Large roof tarp (10–30 squares) | $1,200 to $3,000 |
+| Full post-fire board-up, residential structure | $1,500 to $4,500 |
 
 Every loss is different, and Frontline Fire & Flood provides a written scope before work begins. Homeowners insurance typically covers emergency board-up and tarping as part of the "reasonable repairs to protect property from further damage" provision, the same clause that covers your mitigation costs after a fire or storm loss.
 

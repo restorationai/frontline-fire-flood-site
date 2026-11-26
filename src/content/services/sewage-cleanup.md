@@ -56,11 +56,11 @@ Typical costs depend heavily on the source of the backup, how long the water sat
 
 | Scenario | Typical range |
 |---|---|
-| Single bathroom, caught within hours | $1,500 – $4,000 |
-| Basement with flooring and drywall removal | $4,000 – $9,000 |
-| Septic overflow affecting crawl space | $5,000 – $12,000 |
-| Main line backup, multi-room lower level | $8,000 – $20,000+ |
-| Ejector pump failure with finished basement | $6,000 – $15,000 |
+| Single bathroom, caught within hours | $1,500 to $4,000 |
+| Basement with flooring and drywall removal | $4,000 to $9,000 |
+| Septic overflow affecting crawl space | $5,000 to $12,000 |
+| Main line backup, multi-room lower level | $8,000 to $20,000+ |
+| Ejector pump failure with finished basement | $6,000 to $15,000 |
 
 Every loss is different, and Frontline Fire & Flood provides a written scope of work before any work begins so there are no surprises. Homeowners insurance typically covers sudden and accidental sewer or drain backups when the policy includes a sewer backup rider, standard policies often exclude it, so it's worth confirming your coverage before assuming it applies.
 

@@ -90,7 +90,7 @@ export const brand = {
     { author: "Reason", rating: 5, text: "Best restoration company in the area! Great prices. Amazing ppl that truly want to help the customer in times of dire need.", when: "September 2026" },
     { author: "Becky", rating: 5, text: "We had a great experience with this company. From the beginning of our sewer problem then cleanup then the remodel. I would recommend them. Very happy with the results.", when: "September 2026" },
     { author: "Samuel", rating: 5, text: "Darius was very helpful and informative through the entire process. Very easy to work with. Highly recommended!", when: "September 2026" },
-    { author: "Alivia", rating: 5, text: "Frontline went above and beyond when I had a major flood at one of my properties! Their team responded incredibly fast and took care of the problem before the damage could get any worse. Jamal was absolutely amazing—kind, courteous, and extremely professional. He worked quickly to get all the water…", when: "August 2026" },
+    { author: "Alivia", rating: 5, text: "Frontline went above and beyond when I had a major flood at one of my properties! Their team responded incredibly fast and took care of the problem before the damage could get any worse. Jamal was absolutely amazing: kind, courteous, and extremely professional. He worked quickly to get all the water…", when: "August 2026" },
     { author: "Jaleel", rating: 5, text: "I had a great experience with Frontline Fire and Flood when we discovered mold in our home. It was the basement spare bedroom to be exact. From the beginning, they were professional, knowledgeable, and made us feel like we were in good hands. They did an excellent job addressing the mold issue and…", when: "August 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Lakewood, WA.",
@@ -104,7 +104,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Frontline Fire & Flood serves Lakewood and the surrounding WA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Frontline Fire & Flood serves Lakewood and the surrounding WA area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

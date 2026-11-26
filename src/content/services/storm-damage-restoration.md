@@ -58,12 +58,12 @@ Typical costs for storm damage restoration vary widely based on how much of the 
 
 | Scenario | Typical industry range |
 |---|---|
-| Minor roof breach, limited attic intrusion | $1,500 – $4,000 |
-| Single room with wind-driven rain intrusion | $2,500 – $6,500 |
-| Tree impact with structural damage, 1–2 rooms affected | $8,000 – $20,000 |
-| Whole-roof failure or large structural breach | $25,000 – $60,000+ |
-| Basement or crawl space flooding from storm surge | $4,000 – $15,000 |
-| Full mitigation and reconstruction, multi-room | $30,000 – $80,000+ |
+| Minor roof breach, limited attic intrusion | $1,500 to $4,000 |
+| Single room with wind-driven rain intrusion | $2,500 to $6,500 |
+| Tree impact with structural damage, 1–2 rooms affected | $8,000 to $20,000 |
+| Whole-roof failure or large structural breach | $25,000 to $60,000+ |
+| Basement or crawl space flooding from storm surge | $4,000 to $15,000 |
+| Full mitigation and reconstruction, multi-room | $30,000 to $80,000+ |
 
 Homeowners insurance typically covers sudden and accidental storm damage, wind, hail, falling trees, and resulting water intrusion, though coverage for flooding caused by surface water usually requires a separate flood policy. Frontline Fire & Flood works with all major carriers and handles claim documentation from the first site visit forward.
 
